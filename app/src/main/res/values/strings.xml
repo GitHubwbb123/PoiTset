@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PoiTset</string>
+    <string name="hang">请输入行</string>
+    <string name="lie">请输入列</string>
+</resources>
